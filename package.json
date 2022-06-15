@@ -19,5 +19,9 @@
   "homepage": "https://github.com/thanaism/zenn#readme",
   "dependencies": {
     "zenn-cli": "^0.1.34"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "prettier-plugin-md-nocjsp": "^1.2.0"
   }
 }
