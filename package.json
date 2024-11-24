@@ -21,7 +21,6 @@
     "zenn-cli": "^0.1.34"
   },
   "devDependencies": {
-    "prettier": "^2.4.1",
-    "prettier-plugin-md-nocjsp": "^1.2.0"
+    "prettier": "^3.3.3"
   }
 }
