@@ -19,6 +19,6 @@
   "homepage": "https://github.com/thanaism/zenn#readme",
   "devDependencies": {
     "prettier": "^3.3.3",
-    "zenn-cli": "^0.2.11"
+    "zenn-cli": "^0.4.8"
   }
 }
