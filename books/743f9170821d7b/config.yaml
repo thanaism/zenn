@@ -2,6 +2,7 @@ title: '必然性から紐解くAccount Abstraction'
 summary: 'Account AbstractionをUXではなく、validationとDoS制約の必然性から整理する'
 topics: [Ethereum, AccountAbstraction, ERC4337, EIP7702, Passkey]
 published: false
+publication_name: 'synschismo_inc'
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
