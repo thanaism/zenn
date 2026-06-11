@@ -1,7 +1,7 @@
 title: '必然性から紐解くAccount Abstraction'
-summary: 'Account AbstractionをUXではなく、validationとDoS制約の必然性から整理する'
+summary: 'Bundler、Paymaster、EntryPointなど、Account Abstractionの説明でいきなりたくさんのエンティティが出てきてイマイチ理解できなかったという経験はありませんか？本書ではAccount Abstractionが「どんなものなのか」という切り口ではなく「なぜそうなっているのか」という必然性から整理して説明します。複雑で多岐にわたる要素を、読者にとって忘れることのない理解レベルにまでもっていくことが目的です。'
 topics: [Ethereum, AccountAbstraction, ERC4337, EIP7702, Passkey]
-published: false
+published: true
 publication_name: 'synschismo_inc'
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
